@@ -1,8 +1,8 @@
-<h1>Hi, I'm Adebanjo! <br/><a href="https://github.com/adebanjofalade">Programmer</a>, <a href="https://www.linkedin.com/in/adebanjofalade/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Adebanjo! <br/><a href="https://github.com/adebanjofalade">Programmer</a>, <a href="https://adebanjofalade.com/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/adebanjofalade/">PhD Candidate</a></h1>
 
 <br>
 
-- <b>😊 I’m Adebanjo falade,Security Reseracher at [Bugcrowd](https://bugcrowd.com) with over 7 years Exprreince as a Peneration Tester<b/>
+- <b>😊 I’m Adebanjo falade,Security Reseracher at [Bugcrowd](https://bugcrowd.com) with over 8 years Exprreince as a Peneration Tester<b/>
 -  Ranked Top 150 @bugcrowd, My [Bugcrowd Profile](https://bugcrowd.com/Nishtha123) 
 - 👀 I’m interested in Web Application Security, Network Security and Cloud Security
 - 🌱 I’m currently learning Blender, Godot and React
