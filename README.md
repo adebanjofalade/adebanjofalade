@@ -2,7 +2,7 @@
 
 <br>
 
-- <b>😊 I’m Adebanjo falade,Security Reseracher at [Bugcrowd](https://bugcrowd.com) with over 8 years Exprreince as a Peneration Tester<b/>
+- <b>😊 I’m Adebanjo falade,Security Reseracher at [Bugcrowd](https://bugcrowd.com/Nishtha123) with over 8 years Exprreince as a Peneration Tester<b/>
 -  Ranked Top 150 @bugcrowd, My [Bugcrowd Profile](https://bugcrowd.com/Nishtha123) 
 - 👀 I’m interested in Web Application Security, Network Security and Cloud Security
 - 🌱 I’m currently learning Blender, Godot and React
